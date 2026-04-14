@@ -118,16 +118,6 @@ This project is for startup or educational purposes.
 
 ---
 
-## 🌟 Show Your Support
-
-If you like this project:
-
-* ⭐ Star the repository
-* 🍴 Fork it
-* 📢 Share it on LinkedIn
-
----
-
 ## 📬 Contact
 
 For any queries or collaboration:
